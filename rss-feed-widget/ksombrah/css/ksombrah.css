@@ -49,6 +49,7 @@ Reference: GoldFish - https://github.com/uxglow/rss-feed-widget/blob/master/gold
 	background-color: #FFFFFF;
 	width: 100%;
 	float: left;
+	color: #FFFFFF;
 	}
 .rfw-class.ksombrah .widget_dock .rfw_dock.rfw_list li 
 	{
@@ -57,20 +58,23 @@ Reference: GoldFish - https://github.com/uxglow/rss-feed-widget/blob/master/gold
    width: 100%;	
 	}
 .rfw-class.ksombrah .widget_dock .rfw_dock a h3.entry-title,
-.rfw-class.ksombrah .widget_dock .bx-viewport .rfw_dock h3,
-.rfw-class.ksombrah .widget_dock .bx-viewport .rfw_dock h3.rfw2
+.rfw-class.ksombrah .widget_dock .bx-viewport .rfw_dock h3
+	{
+	background-color: #008f32;
+	padding: 10px;
+	margin: 5px;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 14px;
+	text-align:justify;
+	color: #FFFFFF;
+	border-radius: 25px;
+	}
+/*.rfw-class.ksombrah .widget_dock .bx-viewport .rfw_dock  li > h3.rfw2 
 	{
 	background-color: #FFFFFF;
-	padding: 10px;
-	margin:0;
-	font-size: 20px;
-	font-weight: 700;
-	line-height: 24px;
-	text-align:justify;
-	color: rgb(255, 255, 255);
-	border: solid 1px #008f32;
-	border-radius: 25px 0px 25px 25px;
-	}
+	border-radius: 0px;
+	}*/
 .rfw-class.ksombrah .widget_dock li > div.text_div,
 .rfw-class.ksombrah .widget_dock .bx-viewport li > div.text_div 
 	{
@@ -113,9 +117,9 @@ Reference: GoldFish - https://github.com/uxglow/rss-feed-widget/blob/master/gold
 .rfw-class.ksombrah .text_div > a 
 	{
 	font-family: "Poppins", sans-serif;
-  	color: rgb(255, 255, 255);
-  	font-size: 20px;
-  	line-height: 24px;
+  	color: #008f32;
+  	font-size: 12px;
+  	line-height: 14px;
   	font-weight: 700;
 	}
 .rfw-class.ksombrah .text_div > a:hover
