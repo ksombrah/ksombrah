@@ -61,20 +61,22 @@ Reference: GoldFish - https://github.com/uxglow/rss-feed-widget/blob/master/gold
 .rfw-class.ksombrah .widget_dock .bx-viewport .rfw_dock h3
 	{
 	background-color: #008f32;
-	padding: 10px;
-	margin: 5px;
+	padding: 15px;
+	margin: 0px;
 	font-size: 12px;
 	font-weight: 700;
 	line-height: 14px;
 	text-align:justify;
 	color: #FFFFFF;
-	border-radius: 25px;
+	border-radius: 10px;
 	}
-/*.rfw-class.ksombrah .widget_dock .bx-viewport .rfw_dock  li > h3.rfw2 
+.rfw_dock h3.rfw2 a 
 	{
-	background-color: #FFFFFF;
-	border-radius: 0px;
-	}*/
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 14px;
+	color: white;
+	}
 .rfw-class.ksombrah .widget_dock li > div.text_div,
 .rfw-class.ksombrah .widget_dock .bx-viewport li > div.text_div 
 	{
