@@ -62,12 +62,12 @@ Reference: GoldFish - https://github.com/uxglow/rss-feed-widget/blob/master/gold
 	{
 	background-color: #008f32;
 	padding: 15px;
-	margin: 0px;
+	margin: 5px;
 	font-size: 12px;
 	font-weight: 700;
 	line-height: 14px;
 	text-align:justify;
-	color: #FFFFFF;
+	color: white;
 	border-radius: 10px;
 	}
 .rfw_dock h3.rfw2 a 
